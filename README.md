@@ -1,5 +1,5 @@
-![image](https://github.com/user-attachments/assets/19f02579-5d97-408b-ba60-3ef2e93fedd3)# Block-IP-Address-in-Brave-Browser
-![image](https://github.com/user-attachments/assets/7546cd30-caeb-46ce-860a-67deac178453)
+# Block-IP-Address-in-Brave-Browser
+![image](https://github.com/user-attachments/assets/1e566aec-91b6-4bcd-ba0e-88d3b4c767fc)
 
 An Overview of Brave Browser.
 
